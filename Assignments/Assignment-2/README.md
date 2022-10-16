@@ -10,7 +10,10 @@ Part B: please develop Cluster Python  program and run single-link, Complete-lin
 
 Data Points:
 
-![Alt text](https://github.com/soumyendra98/CMPE-256/blob/assignment-2/Assignments/Assignment-2/Data%20Points.png)
+![Data Points](https://github.com/soumyendra98/CMPE-256/blob/assignment-2/Assignments/Assignment-2/Data%20Points.png)
 
 # SOLUTION
 
+Python Notebook - https://github.com/soumyendra98/CMPE-256/blob/assignment-2/Assignments/Assignment-2/Hierarchical%20Algorithm.ipynb
+
+Google Doc Link - https://docs.google.com/document/d/1jpEQa9D7auwyaPgCbVFQEl53w3HZlbuLi5hqANXvPKc/
