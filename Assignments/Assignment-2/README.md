@@ -10,7 +10,7 @@ Part B: please develop Cluster Python  program and run single-link, Complete-lin
 
 Data Points:
 
-![Alt text](Assignments/Assignment-2/Data Points.png?raw=true "Title")
+![Alt text](Assignments/Assignment-2/Data Points.png)
 
 # SOLUTION
 
