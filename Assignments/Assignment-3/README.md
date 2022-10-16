@@ -19,6 +19,6 @@ Data Points:
 
 # SOLUTION
 
-Python Notebook - 
+Python Notebook - https://github.com/soumyendra98/CMPE-256/blob/assignment-3/Assignments/Assignment-3/Starbucks.ipynb
 
 Google Doc Link - https://docs.google.com/document/d/1LcMXMajAsYsoBVuYTn0ULtZEN24yzJC9k8GVplWTqCE/
